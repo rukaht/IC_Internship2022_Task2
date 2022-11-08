@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "NSWPropertyDataStandardisation", "NSWPropertyDataStandardisation.dtproj", "{CD0B3717-7B79-4D42-B8CA-934C3579FB71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD0B3717-7B79-4D42-B8CA-934C3579FB71}.Development|Default.ActiveCfg = Development
+		{CD0B3717-7B79-4D42-B8CA-934C3579FB71}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {01A6DD46-5FE5-4E75-97D5-4FD85AF7CB41}
+	EndGlobalSection
+EndGlobal

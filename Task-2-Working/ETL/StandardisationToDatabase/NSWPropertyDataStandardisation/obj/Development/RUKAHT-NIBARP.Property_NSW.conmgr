@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="RUKAHT-NIBARP.Property_NSW"
+  DTS:DTSID="{9E4529D7-1034-4A6F-8584-66844FA29773}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=RUKAHT-NIBARP;Initial Catalog=Property_NSW;Provider=SQLNCLI11.1;Integrated Security=SSPI;Application Name=SSIS-NSWPropertyDataStandardisation-{9E4529D7-1034-4A6F-8584-66844FA29773}RUKAHT-NIBARP.Property_NSW;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
